@@ -1,5 +1,4 @@
 ; Name: HelloWorld.ASM
-; Author: Jake B
 ; Function: Print out 'Hello, World!'
 ; Notes: This is heavily commented to be used as a reference point and easy to use for learning purposes
 ; Compiling: This needs to be assembled and linked using nasm and ld:
